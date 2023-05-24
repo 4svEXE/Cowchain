@@ -8,9 +8,9 @@
  * @c yarn dev
  * 
  * @і Користуємось системою фс
- * @a створ.ємо такі папки в src: app pages shared widgets
+ * @a створюємо такі папки в src: app pages shared widgets
  * 
- * @s додаєм тайлвінд (бутстрап) 
+ * @s додаєм тайлвінд
  * @WARN спочатку зупиняєм сервер
  * @c yarn add -D tailwindcss postcss autoprefixer
  * @c yarn tailwindcss init -p
